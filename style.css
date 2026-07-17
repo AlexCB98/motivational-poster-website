@@ -1,3 +1,11 @@
 .color {
     color: coral;
 }
+
+html {
+    font-size: 30px;
+}
+
+#size {
+    font-size: 2rem;
+}
