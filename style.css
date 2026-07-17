@@ -13,3 +13,8 @@ html {
 #weight {
     font-weight: 900;
 }
+
+#family {
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+}
