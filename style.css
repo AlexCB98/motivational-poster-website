@@ -18,3 +18,7 @@ html {
     font-family: "Caveat", cursive;
     font-weight: 400;
 }
+
+#right_align {
+    text-align: right;
+}
