@@ -1,4 +1,4 @@
-.color {
+#color {
     color: coral;
 }
 
@@ -8,4 +8,8 @@ html {
 
 #size {
     font-size: 2rem;
+}
+
+#weight {
+    font-weight: 900;
 }
