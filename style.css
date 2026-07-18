@@ -2,10 +2,13 @@ body{
     background-color: black;
 }
 
-#quote{
+p {
     color: white;
     font-size: 24px;
     text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    padding: 100px;
 }
 
 img{
@@ -15,6 +18,10 @@ img{
 }
 
 h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
+    text-transform: uppercase;
 }
