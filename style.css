@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+#quote{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+img{
+    width: 1230px;
+    height: 650px;
+    border: 5px solid white;
+}
